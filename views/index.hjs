@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ prjHeaderText }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>{{ prjHeaderText }}</h1>
+    <h4>{{ prjQuoteText }}</h4>
+      <a target="_blank" href="{{ cloudFunctionURL }}" alt="Invoke the Dark Side cloud function.">
+      <img id ="{{ prjImage }}" src="/images/{{ prjImage }}" width="600" height="300"></img>
+      </a></br>
+    </br>
+    Host {{ osHostName }} running {{ osPlatform }}. 
+  </body>
+</html>
