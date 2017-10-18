@@ -1,4 +1,4 @@
-![Project Phasma](./public/images/captain_phasma.png)
+![Project Phasma](./public/images/captain_phasma.PNG)
 # Introduction 
 This is basically a hello world app, just showing a star wars character. In this case, Captain Phasma. It is a project meant to be a proof of concept using Jenkins and GitHub as source code repository and CI/CD build tool.
 
